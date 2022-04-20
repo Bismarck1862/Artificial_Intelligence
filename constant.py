@@ -1,0 +1,10 @@
+DESTINATION = 'dest'
+SOURCE = 'source'
+SCORE = 'score'
+LAYOUT = 'layout'
+COST_RESOURCE = 'cost'
+FLOW_RESOURCE = 'amount'
+ROULETTE_CODE = 1
+TOURNAMENT_CODE = 2
+BOTH_CODE = 3
+
