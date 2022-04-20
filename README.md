@@ -1,7 +1,7 @@
 # Artificial_Intelligence
 
 Code of genetic algorithm resolving Facility Layout Optimization problem.
-Source json files were delivered as part of the course artificial intelligence laboratory course on Wrocław University of Technology.
+Source json files were delivered as part of the artificial intelligence laboratory course at Wrocław University of Technology.
 
 Code includes:
 * loading start configuration (costs and flow)
