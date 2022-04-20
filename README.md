@@ -1,4 +1,4 @@
-# Artificial_Intelligence
+# Genetic Algorithm
 
 Code of genetic algorithm solving Facility Layout Optimization problem.
 Source json files were delivered as part of the artificial intelligence laboratory course at Wrocław University of Technology.
